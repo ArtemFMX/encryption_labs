@@ -1,4 +1,4 @@
-package com.encryptionlabs_lab2;
+package com.encryptionlabs.lab2;
 
 public class Spy extends User {
 
